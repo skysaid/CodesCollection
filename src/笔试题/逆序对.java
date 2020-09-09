@@ -1,6 +1,5 @@
-package 腾讯笔试;
+package 笔试题;
 
-import javax.swing.*;
 import java.util.Scanner;
 
 public class 逆序对 {

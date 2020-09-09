@@ -1,6 +1,5 @@
-package 腾讯笔试;
+package 笔试题;
 
-import java.util.Collections;
 import java.util.LinkedList;
 import java.util.Scanner;
 

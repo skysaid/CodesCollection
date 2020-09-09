@@ -1,4 +1,4 @@
-package 腾讯笔试;
+package 笔试题;
 
 public class 数组中的逆序对 {
     static int count=0;

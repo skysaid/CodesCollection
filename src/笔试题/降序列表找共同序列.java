@@ -1,8 +1,6 @@
-package 腾讯笔试;
+package 笔试题;
 
 
-
-import Algorithm.ListNode;
 
 import java.util.Scanner;
 
