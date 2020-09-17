@@ -1,20 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/Algorithm/a84.java" line="56" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="0c0a2106-de4a-486c-8e80-14e808802252" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Algorithm/a10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Algorithm/a124.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Algorithm/a301.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Algorithm/a32.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Algorithm/a4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Algorithm/a41.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Algorithm/a76.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Algorithm/a84.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Algorithm/a85.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodesCollection/腾讯笔试/压缩字符.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodesCollection/腾讯笔试/数组中的逆序对.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodesCollection/腾讯笔试/逆序对.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodesCollection/腾讯笔试/降序列表找共同序列$ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodesCollection/腾讯笔试/降序列表找共同序列.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithm/a128.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Algorithm/a128.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithm/a239.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Algorithm/a239.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithm/a297.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Algorithm/a297.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/笔试题/压缩字符.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/笔试题/压缩字符.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/笔试题/翻转数字.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/笔试题/翻转数字.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/笔试题/自然数因数分解最小和.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/笔试题/自然数因数分解最小和.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodesCollection/Algorithm/a399.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodesCollection/Algorithm/a399.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Algorithm/a399.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Algorithm/a399.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/笔试题/驼峰字符串问题.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/笔试题/驼峰字符串问题.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,10 +29,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Algorithm/a239.java">
+        <entry file="file://$PROJECT_DIR$/src/Algorithm/a4.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1551">
-              <caret line="47" column="33" selection-start-line="47" selection-start-column="33" selection-end-line="47" selection-end-column="33" />
+            <state relative-caret-position="225">
+              <caret line="68" column="13" selection-start-line="68" selection-start-column="13" selection-end-line="68" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -38,49 +41,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/笔试题/翻转数字.java">
+        <entry file="file://$PROJECT_DIR$/src/Algorithm/a32.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="594">
-              <caret line="18" column="39" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/笔试题/自然数因数分解最小和.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="363">
-              <caret line="11" column="45" selection-start-line="11" selection-start-column="45" selection-end-line="11" selection-end-column="45" />
-              <folding>
-                <element signature="e#477#478#0" expanded="true" />
-                <element signature="e#516#517#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="174">
+              <caret line="48" column="18" selection-start-line="45" selection-start-column="4" selection-end-line="60" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/笔试题/压缩字符.java">
+        <entry file="file://$PROJECT_DIR$/src/Algorithm/a10.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="19" column="52" selection-start-line="19" selection-start-column="52" selection-end-line="19" selection-end-column="52" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Algorithm/a297.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="561">
-              <caret line="18" selection-start-line="18" selection-end-line="18" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#861#862#0" expanded="true" />
-                <element signature="e#905#906#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="462">
+              <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -108,14 +81,29 @@
         <option value="$PROJECT_DIR$/src/Algorithm/a239.java" />
         <option value="$PROJECT_DIR$/src/笔试题/翻转数字.java" />
         <option value="$PROJECT_DIR$/src/笔试题/自然数因数分解最小和.java" />
+        <option value="$PROJECT_DIR$/src/笔试题/驼峰字符串问题.java" />
+        <option value="$PROJECT_DIR$/src/Algorithm/a41.java" />
+        <option value="$PROJECT_DIR$/src/Algorithm/a301.java" />
+        <option value="$PROJECT_DIR$/src/Algorithm/a85.java" />
+        <option value="$PROJECT_DIR$/src/Algorithm/a22.java" />
+        <option value="$PROJECT_DIR$/src/Algorithm/a124.java" />
+        <option value="$PROJECT_DIR$/src/Algorithm/a84.java" />
+        <option value="$PROJECT_DIR$/src/笔试题/文件中求名字.java" />
+        <option value="$PROJECT_DIR$/src/Algorithm/a76.java" />
+        <option value="$PROJECT_DIR$/src/Algorithm/a399.java" />
+        <option value="$PROJECT_DIR$/src/Algorithm/a4.java" />
+        <option value="$PROJECT_DIR$/src/笔试题/输出菲波那切数列.java" />
+        <option value="$PROJECT_DIR$/src/笔试题/繁殖.java" />
+        <option value="$PROJECT_DIR$/src/Algorithm/a32.java" />
+        <option value="$PROJECT_DIR$/src/Algorithm/a10.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-280" />
-    <option name="y" value="470" />
-    <option name="width" value="2049" />
-    <option name="height" value="885" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="323" />
+    <option name="y" value="36" />
+    <option name="width" value="1853" />
+    <option name="height" value="1454" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -123,6 +111,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -152,13 +141,13 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="GO_FMT" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1599799653301" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1600317398749" />
     <property name="go.gopath.indexing.explicitly.defined" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
@@ -174,9 +163,22 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.a239">
-    <configuration name="电信云" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="笔试题.电信云" />
+  <component name="RunManager" selected="Application.a32">
+    <configuration name="输出菲波那切数列" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="笔试题.输出菲波那切数列" />
+      <module name="CodesCollection" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="笔试题.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="繁殖" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="笔试题.繁殖" />
       <module name="CodesCollection" />
       <extension name="coverage">
         <pattern>
@@ -214,8 +216,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="a239" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Algorithm.a239" />
+    <configuration name="a301" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Algorithm.a301" />
       <module name="CodesCollection" />
       <extension name="coverage">
         <pattern>
@@ -227,8 +229,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="a297" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Algorithm.a297" />
+    <configuration name="a32" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Algorithm.a32" />
+      <module name="CodesCollection" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Algorithm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="a76" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Algorithm.a76" />
+      <module name="CodesCollection" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Algorithm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="a84" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Algorithm.a84" />
       <module name="CodesCollection" />
       <extension name="coverage">
         <pattern>
@@ -242,9 +270,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.a239" />
-        <item itemvalue="Application.a297" />
-        <item itemvalue="Application.电信云" />
+        <item itemvalue="Application.a32" />
+        <item itemvalue="Application.输出菲波那切数列" />
+        <item itemvalue="Application.a76" />
+        <item itemvalue="Application.a84" />
+        <item itemvalue="Application.a301" />
       </list>
     </recent_temporary>
   </component>
@@ -264,17 +294,37 @@
       <workItem from="1599724382490" duration="2800000" />
       <workItem from="1599736896773" duration="7992000" />
       <workItem from="1599793783627" duration="1368000" />
+      <workItem from="1599799800724" duration="9172000" />
+      <workItem from="1599878420565" duration="11231000" />
+      <workItem from="1599960046355" duration="4130000" />
+      <workItem from="1599982343760" duration="2294000" />
+      <workItem from="1600047771128" duration="6649000" />
+      <workItem from="1600084609622" duration="1309000" />
+      <workItem from="1600139990969" duration="4816000" />
+      <workItem from="1600151275002" duration="6397000" />
+      <workItem from="1600226648918" duration="679000" />
+      <workItem from="1600257137621" duration="2730000" />
+      <workItem from="1600306073751" duration="7461000" />
     </task>
+    <task id="LOCAL-00001" summary="win-9-11-2">
+      <created>1599799847077</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1599799847077</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18909000" />
+    <option name="totallyTimeSpent" value="75777000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="2062" height="1166" extended-state="6" />
+    <frame x="259" y="29" width="1482" height="1163" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7878788" visible="true" weight="0.2724551" />
-      <window_info id="Structure" order="1" sideWeight="0.21212122" side_tool="true" visible="true" weight="0.2724551" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.77261615" visible="true" weight="0.26966292" />
+      <window_info id="Structure" order="1" sideWeight="0.22738387" side_tool="true" visible="true" weight="0.26966292" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -282,15 +332,15 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.327853" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39941972" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.20659554" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.49903288" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32978722" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32978722" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.19148937" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -322,6 +372,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="win-9-11-2" />
+    <option name="LAST_COMMIT_MESSAGE" value="win-9-11-2" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Algorithm/a23.java">
@@ -356,16 +410,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/笔试题/电信云.java" />
-    <entry file="file://$PROJECT_DIR$/src/Algorithm/a239.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1551">
-          <caret line="47" column="33" selection-start-line="47" selection-start-column="33" selection-end-line="47" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Algorithm/a297.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="561">
@@ -378,10 +422,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/笔试题/翻转数字.java">
+    <entry file="file://$PROJECT_DIR$/src/笔试题/驼峰字符串问题.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="18" column="39" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
+        <state relative-caret-position="660">
+          <caret line="20" column="13" lean-forward="true" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/笔试题/压缩字符.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="3" column="28" lean-forward="true" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
         </state>
       </provider>
     </entry>
@@ -389,20 +440,141 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="363">
           <caret line="11" column="45" selection-start-line="11" selection-start-column="45" selection-end-line="11" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/笔试题/翻转数字.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="18" column="42" lean-forward="true" selection-start-line="18" selection-start-column="42" selection-end-line="18" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Algorithm/a239.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1468">
+          <caret line="47" column="33" selection-start-line="47" selection-start-column="33" selection-end-line="47" selection-end-column="33" />
           <folding>
-            <element signature="e#477#478#0" expanded="true" />
-            <element signature="e#516#517#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/笔试题/压缩字符.java">
+    <entry file="file://$PROJECT_DIR$/src/Algorithm/a301.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="19" column="52" selection-start-line="19" selection-start-column="52" selection-end-line="19" selection-end-column="52" />
+        <state relative-caret-position="132">
+          <caret line="38" column="5" selection-start-line="5" selection-start-column="4" selection-end-line="38" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Algorithm/a41.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Algorithm/a72.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="13" column="28" lean-forward="true" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Algorithm/a124.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/笔试题/文件中求名字.java" />
+    <entry file="file://$PROJECT_DIR$/src/Algorithm/a84.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1579">
+          <caret line="71" column="56" selection-start-line="71" selection-start-column="56" selection-end-line="71" selection-end-column="56" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Algorithm/a85.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="507">
+          <caret line="29" column="5" selection-start-line="3" selection-start-column="4" selection-end-line="29" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Algorithm/a76.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="429">
+          <caret line="40" column="33" selection-start-line="40" selection-start-column="33" selection-end-line="40" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Algorithm/a22.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="918">
+          <caret line="36" column="27" selection-start-line="36" selection-start-column="27" selection-end-line="36" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Algorithm/a399.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="4" column="19" lean-forward="true" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../MyLeetCodeHot100/LeetCodeHot100/src/test1/Algorithm399.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/笔试题/输出菲波那切数列.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="3" column="28" lean-forward="true" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/笔试题/繁殖.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="38" column="32" selection-start-line="38" selection-start-column="32" selection-end-line="38" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Algorithm/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="7" column="1" selection-start-line="2" selection-start-column="7" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Algorithm/a4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="68" column="13" selection-start-line="68" selection-start-column="13" selection-end-line="68" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Algorithm/a32.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="48" column="18" selection-start-line="45" selection-start-column="4" selection-end-line="60" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Algorithm/a10.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
         </state>
       </provider>
     </entry>

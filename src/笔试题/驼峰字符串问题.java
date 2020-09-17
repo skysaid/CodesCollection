@@ -9,10 +9,15 @@ public class 驼峰字符串问题 {
             for (int j = i+2; j < input.length(); j=j+2) {
                 char next = input.charAt(j);
                 char mid = input.charAt(j-1);
+//                if(pre==next&&pre!=mid) {
+//                    i=j;
+//                    mark=false;
+//                }else break;
                 if(pre==next&&pre!=mid) {
                     i=j;
                     mark=false;
-                }else break;
+                    break;
+                }
             }
             //没有发现驼峰则把当前字符串加入
             if(mark) {
@@ -26,7 +31,7 @@ public class 驼峰字符串问题 {
     }
 
     public static void main(String[] args) {
-        String str="abacbcdacfcdibfb";
+        String str="abaacbcdaf";
         System.out.println(solve(str));
     }
 }
